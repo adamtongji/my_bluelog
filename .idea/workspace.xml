@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73afd350-0455-4809-8160-14f154aee145" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/my_bluelog.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Blog_app/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Blog_app/blueprints/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Blog_app/emails.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Blog_app/extensions.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Blog_app/fakes.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Blog_app/forms.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Blog_app/models.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Blog_app/utils.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="73afd350-0455-4809-8160-14f154aee145" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
